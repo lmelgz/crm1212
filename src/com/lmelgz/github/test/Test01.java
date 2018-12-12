@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("hello,github·þÎñÆ÷01");
 		System.out.println("github response to local");
 		System.out.println("github response to local 02");
+		System.out.println("hello,github 03");
 	}
 
 }
