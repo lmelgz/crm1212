@@ -3,8 +3,9 @@ package com.lmelgz.github.test;
 public class Test01 {
 
 	public static void main(String[] args) {
-		System.out.println("hello,github服务器");
-		System.out.println("hello,github服务器01");
+		System.out.println("hello,github路镁脦帽脝梅");
+		System.out.println("hello,github路镁脦帽脝梅01");
+		System.out.println("github response to local");
 	}
 
 }
