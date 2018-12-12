@@ -8,6 +8,7 @@ public class Test01 {
 		System.out.println("github response to local");
 		System.out.println("github response to local 02");
 		System.out.println("hello,github03");
+		System.out.println("hello,lgz");
 	}
 
 }
